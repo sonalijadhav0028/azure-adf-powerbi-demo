@@ -1,0 +1,6 @@
+OrderID,OrderDate,Customer,Product,Quantity,UnitPrice,Region
+1001,2024-01-05,Acme Corp,Widget A,10,9.99,Oslo
+1002,2024-01-06,Globex Inc,Widget B,5,19.50,Bergen
+1003,2024-01-07,Acme Corp,Widget A,2,9.99,Trondheim
+1004,2024-01-10,Initech,Widget C,7,14.00,Oslo
+1005,2024-01-11,Globex Inc,Widget A,1,9.99,Bergen
